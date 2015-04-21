@@ -13,7 +13,7 @@ import java.util.regex.Matcher;
 
 public class SmileyFactory extends Spannable.Factory
 {
-    private static final Pattern SMILY_PATTERN = Pattern.compile("\\[([a-zA-Z][a-zA-Z0-9_]*)\\]");
+    private static final Pattern SMILY_PATTERN = Pattern.compile("\\[([a-zA-Z_][a-zA-Z0-9_]*)\\]");
 
     public static final int ALIGN_BOTTOM = DynamicDrawableSpan.ALIGN_BOTTOM;
     public static final int ALIGN_BASELINE = DynamicDrawableSpan.ALIGN_BASELINE;
@@ -57,8 +57,5 @@ public class SmileyFactory extends Spannable.Factory
 
         return retval;
     }
-    
-    
-    
-    
+
 }
