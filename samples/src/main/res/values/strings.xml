@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smiley Samples</string>
+    <string name="smiley_text">Here is your [smiley_message]</string>
+</resources>
