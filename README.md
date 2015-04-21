@@ -25,9 +25,6 @@ tx.setText("hello [smiley_heart], welcome [smiley_like]", TextView.BufferType.SP
 
 ## TODO
 
-<<<<<<< HEAD
 * Add more icons.
-=======
-* Add more icon.
->>>>>>> c6c3b301618f3994ba6d316cae7f97b7e5c0293e
+
 
