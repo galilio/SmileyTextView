@@ -25,5 +25,5 @@ tx.setText("hello [smiley_heart], welcome [smiley_like]", TextView.BufferType.SP
 
 ## TODO
 
-* Add more smiley.
+* Add more icon.
 
